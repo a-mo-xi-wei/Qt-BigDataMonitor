@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/image/res">
+        <file>bg.jpg</file>
+        <file>head_bg.png</file>
+        <file>jt.png</file>
+        <file>lbx.png</file>
+        <file>line.png</file>
+        <file>map.png</file>
+        <file>pointer.png</file>
+    </qresource>
+</RCC>
